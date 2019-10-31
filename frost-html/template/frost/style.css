@@ -1376,45 +1376,8 @@ footer .post-list li em {
 .services-1 .col-wrapper {
     padding: 0 10px
 }
-.services-1 .icon-wrapper {
-    position: relative;
-    height: 80px;
-    margin-bottom: 30px;
-}
-.services-1 .icon-wrapper i {
-    font-size: 50px
-}
-.services-1 .icon-wrapper i:after {
-    content: "";
-    display: block;
-    position: absolute;
-    bottom: 0px;
-    left: 50%;
-    margin-left: -15px;
-    border-bottom: 1px solid rgba(0,0,0,0.16);
-    width: 30px;
-}
 .services-2 .row {
     text-align: left
-}
-.services-2 .icon {
-    display: table
-}
-.services-2 .row  .icon {
-    float: left;
-    margin-right: 20px;
-}
-.services-2 .row .text {
-    overflow: hidden
-}
-.services-2 .icon i.icn {
-    color: #2e2e2e;
-    line-height: 1;
-    font-size: 35px;
-    text-transform: uppercase;
-    -webkit-transition: all 200ms ease-in;
-    -o-transition: all 200ms ease-in;
-    -moz-transition: all 200ms ease-in;
 }
 /*-----------------------------------------------------------------------------------*/
 /*	11. PARALAX
